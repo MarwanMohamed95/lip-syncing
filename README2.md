@@ -1,5 +1,7 @@
 **Here is Overview about Wav2Lip Model**
 
+![model](https://github.com/MarwanMohamed95/lip-syncing/blob/main/model.png?view=true)
+
 **1. Model Architecture:**
    - **Generator (G):**
      - Identity Encoder: Residual convolutional layers encoding a random reference frame.
