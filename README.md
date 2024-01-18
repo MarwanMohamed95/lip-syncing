@@ -19,7 +19,6 @@ This repository contains a system to generate lip-synced videos using the Wav2Li
 3. **Wav2Lip Lip Sync Video Generation:**
 
    - Processes the generated image and audio with Wav2Lip to create a lip-synced video.
-     - python3.6 inference.py --checkpoint_path checkpoints/wav2lip_gan.pth --face generated_image.png --audio English_audio.wav --outfile lip_sync_video.mp4
      - Example command: `python3.6 inference.py --checkpoint_path checkpoints/wav2lip_gan.pth --face generated_image.png --audio English_audio.wav --outfile lip_sync_video.mp4`
 
 4. **Dependencies:**
