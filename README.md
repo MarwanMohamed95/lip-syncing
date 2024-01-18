@@ -29,7 +29,7 @@ This repository contains a system to generate lip-synced videos using the Wav2Li
 
 6. **Acknowledgments:**
 
-   - Wav2Lip model by [Reference to Wav2Lip repository].
+   - Wav2Lip model by [Wav2Lip Repo](https://github.com/Rudrabha/Wav2Lip).
 
 7. **Conclusion:**
 
