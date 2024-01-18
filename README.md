@@ -34,3 +34,6 @@ This repository contains a system to generate lip-synced videos using the Wav2Li
 7. **Conclusion:**
 
    - This repository provides an end-to-end solution for generating lip-synced videos with text-to-speech audio. Feel free to explore different inputs and experiment with the provided model.
+
+## Note
+The test samples are in data_samples directory and the results in results directory
